@@ -80,3 +80,12 @@
 @import url(../blocks/join/__plus/join__plus.css);
 @import url(../blocks/join/__pict/join__pict.css);
 @import url(../blocks/join/__cloud/join__cloud.css);
+
+/*OG*/
+
+@import url(../blocks/page/__og/page__og.css);
+@import url(../blocks/header/__og/header__og.css);
+@import url(../blocks/header/__block/_og/header__block_og.css);
+@import url(../blocks/header/__title/_og/header__title_og.css);
+@import url(../blocks/header/__logo/_og/header__logo_og.css);
+@import url(../blocks/header/__circle/_og/header__circle_og.css);

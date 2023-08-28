@@ -1,9 +1,11 @@
 .root{
     font-family: 'YS Text', 'Arial', sans-serif;
     min-width: 375px;
-    max-width:1440px;
+    /*max-width:1440px;*/
+   /* max-width: 100%;*/
     background: #fff;
     margin: 0 auto 0;
+
 }
 
 
