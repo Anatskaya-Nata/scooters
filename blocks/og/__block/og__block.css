@@ -1,0 +1,9 @@
+.og__block{
+    width: 311px;
+    width: 420px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    margin: 169px 0 0px 32px;
+    padding: 0 32px 0 32px;
+}
