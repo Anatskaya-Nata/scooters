@@ -1,0 +1,14 @@
+.header__circle{
+    width: 87px;
+    margin: 0 0 110px 104px;
+    z-index: 3;
+}
+
+@media screen and (min-width: 1440px){
+    .header__circle{
+        width: 208px;
+        margin: 394px 461px 0 0px;
+        color: #21201F;
+    } 
+    
+  }

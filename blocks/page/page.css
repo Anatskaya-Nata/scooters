@@ -1,0 +1,12 @@
+.page{
+    width: 375px;
+    margin: auto;
+    color: #21201F;
+}
+
+@media screen and (min-width: 1440px){
+    .page{
+        width: 1440px;
+       
+    }
+ }

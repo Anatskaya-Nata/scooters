@@ -1,0 +1,10 @@
+.button{
+   background-color: #FFDE40;
+        border: none;
+        border-radius: 36px;
+        font-family: 'YS Text-medium','Arial', sans-serif;
+        font-size: 24px;
+        line-height: 31px;
+        margin: 36px 0 0 0;
+        box-shadow: 0px 4px 98px 0px rgba(255, 222, 64, 0.59);  
+}

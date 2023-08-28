@@ -1,0 +1,12 @@
+.benefits__text-container{
+    width: 100%;
+    margin: 0 0 0 20px;
+}
+
+@media screen and (min-width: 1440px){
+    .benefits__text-container{
+         width: 100%;
+         margin: 33px 0 0 0;
+
+     }
+  }

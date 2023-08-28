@@ -1,0 +1,10 @@
+/*.event__item_ga2{
+    display: none;
+}*/
+
+@media screen and (min-width: 1440px){
+    .event__item_ga2{
+        grid-area: post-2;
+        margin: 0 0 0 0
+  }
+}

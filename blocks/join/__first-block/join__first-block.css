@@ -1,0 +1,14 @@
+.join__first-block{
+    display: flex;
+    flex-direction: column;
+    margin: 44px 0 0 0;
+
+}
+
+@media screen and (min-width: 1440px){
+    .join__first-block{
+        width: 419px;
+        margin: 56px 0 0 0;
+
+    }   
+}

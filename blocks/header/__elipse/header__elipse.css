@@ -1,0 +1,14 @@
+/*.header__elipse{
+    position: absolute;
+    width: 657px;
+    height: 401px;
+    top: 200px;
+    left: 200px;
+    opacity: 0.5;
+    transform: rotate(-140deg);
+    border-radius: 328px/200px;
+    background-color: #8241EF;
+    filter: blur(100px);
+    box-shadow: 0px 0px 100px 0px #8241EF;
+
+}*/

@@ -1,0 +1,13 @@
+.button_header{
+    display: none;
+}
+
+@media screen and (min-width: 1440px){
+    .button_header{
+        display: block;
+        width: 318px;
+        height: 65px;
+
+    }  
+    
+  }

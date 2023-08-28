@@ -1,0 +1,12 @@
+.join__circle{
+    width: 360px;
+    margin: -305px 0 0 2px;
+}
+
+@media screen and (min-width: 1440px){
+    .join__circle{
+        width: 539px;
+        margin: -462px 0 0 -257px;
+
+    }   
+}

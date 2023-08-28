@@ -1,0 +1,14 @@
+.benefits__item-text_charge{
+    width: 100%;
+    width: 96%;
+    margin: -3px 0 0 10px;
+    line-height: 19.5px;
+}
+
+@media screen and (min-width: 1440px){
+    .benefits__item-text_charge{
+        width: 370px;
+        line-height: 29px;
+        margin: -7px 0 0 -3px;
+         }
+  }

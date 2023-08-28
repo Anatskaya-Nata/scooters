@@ -1,0 +1,13 @@
+.benefits__item-text_clock{
+    width: 98%;
+    margin: -2px 0 0 8px;
+    line-height: 18.5px;
+}
+
+@media screen and (min-width: 1440px){
+    .benefits__item-text_clock{
+        width: 360px;
+        margin: -5px 0 0 1px;
+        line-height: 29px;
+     }
+  }

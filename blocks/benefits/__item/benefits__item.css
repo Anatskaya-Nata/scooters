@@ -1,0 +1,18 @@
+.benefits__item{
+        display: flex;
+        flex-direction: row;
+        justify-content:space-between;
+        width: 311px;
+        align-items: center;
+}
+
+@media screen and (min-width: 1440px){
+    .benefits__item{
+        width: 100%;
+        flex-direction: column;
+        justify-content:flex-start;
+        align-items: flex-start;
+    
+
+     }
+  }

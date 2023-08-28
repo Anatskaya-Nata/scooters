@@ -1,0 +1,11 @@
+.event__item{
+
+    object-fit: cover;
+
+}
+
+@media screen and (min-width: 1440px){
+  .event__item{
+
+   }
+}

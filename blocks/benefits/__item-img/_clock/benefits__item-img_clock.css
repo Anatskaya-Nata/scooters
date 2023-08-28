@@ -1,0 +1,11 @@
+.benefits__item-img_clock{
+    width: 61px;
+    margin: 0px 0 0 10px;
+}
+
+@media screen and (min-width: 1440px){
+    .benefits__item-img_clock{
+        width: 63px;
+        margin: 1px 0 0 9px;
+     }
+  }

@@ -1,0 +1,11 @@
+.join__cloud{
+display: none;
+}
+
+@media screen and (min-width: 1440px){
+    .join__cloud{
+        display: block;
+        width: 865px;
+        margin:37px 0px 0 -183px;;
+    }   
+}

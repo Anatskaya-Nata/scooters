@@ -1,0 +1,13 @@
+.content{
+    width: 100%;
+    padding: 0 32px 0 32px;
+    margin: 0 auto 0;
+    box-sizing: border-box;
+}
+
+@media screen and (min-width: 1440px){
+    .content{
+padding: 0;
+margin: -60px auto 0;
+     }
+  }

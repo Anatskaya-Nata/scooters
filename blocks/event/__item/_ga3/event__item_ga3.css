@@ -1,0 +1,9 @@
+/*.event__item_ga3{
+    display: none;
+}*/
+
+@media screen and (min-width: 1440px){
+    .event__item_ga3{
+        grid-area: post-4;
+  }
+}

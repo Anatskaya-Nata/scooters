@@ -1,0 +1,12 @@
+.join__info{
+    width: 100%;
+    margin: 23px 0 0 0; 
+}
+
+@media screen and (min-width: 1440px){
+    .join__info{
+       
+        margin: 35px 0 0 -1px;;
+
+    }   
+}

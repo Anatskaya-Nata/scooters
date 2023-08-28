@@ -1,0 +1,12 @@
+.join__second-block{
+    display: flex;
+    flex-direction: column;
+    margin: 4px 0 0 0
+}
+
+@media screen and (min-width: 1440px){
+    .join__second-block{
+        width: 419px;
+        margin: 114px 0 0 0;
+    }   
+}

@@ -1,0 +1,12 @@
+.event__cafe{
+    position: absolute;
+}
+
+@media screen and (min-width: 1440px){
+    .event__cafe{
+        width: 333px;
+        top: 973px;
+        left: 714px;
+        z-index: 8;
+    }   
+}

@@ -1,0 +1,12 @@
+.benefits__item-img_charge{
+    width: 58px;
+    margin: -1px 0 0 11px;
+}
+
+@media screen and (min-width: 1440px){
+    .benefits__item-img_charge{
+        width: 75px;
+        margin: 1px 0 0 -3px
+     }
+  }
+

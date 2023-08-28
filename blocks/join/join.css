@@ -1,0 +1,20 @@
+.join{
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+@media screen and (min-width: 1440px){
+    .join{
+        width: 874px;
+        justify-content: flex-start;
+        align-items: flex-start;
+        margin: 0 auto 0;
+        padding: 0 60px 34px 16px;
+     }
+  }
+
+
+
+

@@ -1,0 +1,13 @@
+.benefits__title{
+    width: 311px;
+    margin: 0 0 0 0;
+    white-space: normal;
+
+}
+
+@media screen and (min-width: 1440px){
+    .benefits__title{
+        width: 827px;
+        white-space: pre-line;      
+     }
+  }

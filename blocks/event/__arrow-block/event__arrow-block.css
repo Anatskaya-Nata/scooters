@@ -1,0 +1,15 @@
+.event__arrow-block{
+    display: block;
+    width: 108px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 25px auto 0 auto;
+}
+
+
+@media screen and (min-width: 1440px){
+    .event__arrow-block{
+        display: none;
+     }
+  }

@@ -1,0 +1,11 @@
+.event__info{
+    width: 100%;
+    margin: 23px 0 0 0;
+}
+
+@media screen and (min-width: 1440px){
+    .event__info{
+        width: 441px;
+        margin: 34px 0 0 0;
+     }
+  }

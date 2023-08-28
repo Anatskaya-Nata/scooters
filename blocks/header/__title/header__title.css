@@ -1,0 +1,23 @@
+.header__title{
+    width: 200px;
+    height: 98px;
+    font-family: 'YS Text-black','Arial', sans-serif;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 36px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    margin: 26px 0 0 0;
+}
+
+@media screen and (min-width: 1440px){
+    .header__title{
+        width: 420px;
+        height: 196px;
+        font-size: 72px;
+        line-height: 72px;
+           margin: 64px 0 0 0;
+           z-index: 2
+    } 
+    
+  }

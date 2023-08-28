@@ -1,0 +1,24 @@
+.event__gallery{
+    display: none;
+}
+
+@media screen and (min-width: 1440px){
+    .event__gallery{
+        display: grid;
+        width: 957px;
+        grid-template-columns: 455px 455px;
+       /* grid-template-rows: 228px repeat(4, auto);*/
+        grid-template-rows: 212px min-content 212px min-content 212px;
+
+        grid-template-areas:
+        ". post-2"  
+        "post-3 post-2" 
+        "post-3 post-4"
+        "post-5 post-4"
+        "post-5 ." ;
+        transform: rotate(2deg);
+        gap: 20px 23px;
+        margin: -149px 0 0 -8px;
+     }
+  }
+

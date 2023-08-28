@@ -1,0 +1,14 @@
+.benefits__item-text_scooter{
+    width: 100%;
+    margin: -2px 0 0 0;
+    line-height: 19px;
+}
+
+@media screen and (min-width: 1440px){
+    .benefits__item-text_scooter{
+        width: 365px;
+        line-height: 29px;
+        margin: -1px 0 0 0;
+
+     }
+  }

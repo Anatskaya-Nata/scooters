@@ -1,0 +1,82 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/font.css);
+@import url(../blocks/root/root.css);
+
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/__h2/page__h2.css);
+@import url(../blocks/page/__h2/_small/page__h2_small.css);
+@import url(../blocks/page/__text-p/page__text-p.css);
+
+@import url(../blocks/content/content.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__block/header__block.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__info/header__info.css);
+@import url(../blocks/header/__discount/header__discount.css);
+@import url(../blocks/header/__price/header__price.css);
+@import url(../blocks/header/__price-line/header__price-line.css);
+@import url(../blocks/header/__circle/header__circle.css);
+
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/_header/button_header.css);
+@import url(../blocks/button/_join/button_join.css);
+
+@import url(../blocks/benefits/benefits.css);
+@import url(../blocks/benefits/__title/benefits__title.css);
+@import url(../blocks/benefits/__container/benefits__container.css);
+@import url(../blocks/benefits/__item/benefits__item.css);
+@import url(../blocks/benefits/__img-container/benefits__img-container.css);
+@import url(../blocks/benefits/__text-container/benefits__text-container.css);
+@import url(../blocks/benefits/__item-img/benefits__item-img.css);
+@import url(../blocks/benefits/__item-img/_zero/benefits__item-img_zero.css);
+@import url(../blocks/benefits/__item-img/_scooter/benefits__item-img_scooter.css);
+@import url(../blocks/benefits/__item-img/_clock/benefits__item-img_clock.css);
+@import url(../blocks/benefits/__item-img/_charge/benefits__item-img_charge.css);
+@import url(../blocks/benefits/__item-text/benefits__item-text.css);
+@import url(../blocks/benefits/__item-text/_zero/benefits__item-text_zero.css);
+@import url(../blocks/benefits/__item-text/_scooter/benefits__item-text_scooter.css);
+@import url(../blocks/benefits/__item-text/_clock/benefits__item-text_clock.css);
+@import url(../blocks/benefits/__item-text/_charge/benefits__item-text_charge.css);
+
+
+@import url(../blocks/event/event.css);
+@import url(../blocks/event/__title/event__title.css);
+@import url(../blocks/event/__info/event__info.css);
+@import url(../blocks/event/__drops/event__drops.css);
+@import url(../blocks/event/__decor/event__decor.css);
+@import url(../blocks/event/__decor/_display/event__decor_display.css);
+@import url(../blocks/event/__metka/event__metka.css);
+@import url(../blocks/event/__cafe/event__cafe.css);
+@import url(../blocks/event/__slider/event__slider.css);
+@import url(../blocks/event/__gallery/event__gallery.css);
+@import url(../blocks/event/__container/event__container.css);
+@import url(../blocks/event/__item/event__item.css);
+@import url(../blocks/event/__image/event__image.css);
+@import url(../blocks/event/__arrow-block/event__arrow-block.css);
+@import url(../blocks/event/__item/_ga1/event__item_ga1.css);
+@import url(../blocks/event/__item/_ga2/event__item_ga2.css);
+@import url(../blocks/event/__item/_ga3/event__item_ga3.css);
+@import url(../blocks/event/__item/_ga4/event__item_ga4.css);
+
+
+
+@import url(../blocks/swiper/swiper-button-disabeld.css);
+
+
+@import url(../blocks/join/join.css);
+@import url(../blocks/join/__first-block/join__first-block.css);
+@import url(../blocks/join/__second-block/join__second-block.css);
+@import url(../blocks/join/__title/join__title.css);
+@import url(../blocks/join/__align/join__align.css);
+@import url(../blocks/join/__info/join__info.css);
+@import url(../blocks/join/__image/join__image.css);
+@import url(../blocks/join/__smkt/join__smkt.css);
+@import url(../blocks/join/__ellips/join__ellips.css);
+@import url(../blocks/join/__circle/join__circle.css);
+@import url(../blocks/join/__add/join__add.css);
+@import url(../blocks/join/__link/join__link.css);
+@import url(../blocks/join/__plus/join__plus.css);
+@import url(../blocks/join/__pict/join__pict.css);
+@import url(../blocks/join/__cloud/join__cloud.css);

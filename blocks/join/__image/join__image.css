@@ -1,0 +1,23 @@
+.join__image{
+    position: relative;
+    background-image: url(../../../img/Ellipse\ N.png);
+    background-size: 100%;
+    background-position:top 38px left 0;
+    width: 100%;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+@media screen and (min-width: 1440px){
+    .join__image{
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 554px;
+        align-items: flex-end;
+        justify-content: center;
+        margin: -19px 0 0 -137px;
+    }   
+
+}

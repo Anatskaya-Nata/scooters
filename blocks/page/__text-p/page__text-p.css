@@ -1,0 +1,15 @@
+.page__text-p{
+    font-family: 'YS Text-medium','Arial', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0px;
+    margin: 0;
+}
+
+@media screen and (min-width: 1440px){
+    .page__text-p{
+        font-size: 24px;
+        line-height: 29px;
+     }
+  }

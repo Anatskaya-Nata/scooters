@@ -1,0 +1,20 @@
+.header__discount {
+  position: absolute;
+  top: 45px;
+  left: 112px;
+  background: radial-gradient(100% 100% at 100% 0%, #E0B8FF 0%, #B6B9FF 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+  ;
+  /*background-color: #E0B8FF;*/
+  border-radius: 12px;
+  padding: 0px 9px 0px 7px;
+  z-index: 2;
+}
+@media screen and (min-width: 1440px){
+  .header__discount{
+    top: 60px;
+    left: 148px;
+    border-radius: 16px;
+    padding: 1px 13px 1px 12px;
+  } 
+  
+}

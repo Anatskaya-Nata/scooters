@@ -1,0 +1,13 @@
+.benefits__img-container{
+   display: flex;
+   flex-direction: row;
+   width: 83px; 
+ 
+}
+
+@media screen and (min-width: 1440px){
+   .benefits__img-container{
+     /* width: 90px;*/
+     width: 100%;
+    }
+ }

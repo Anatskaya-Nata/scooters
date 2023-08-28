@@ -1,0 +1,23 @@
+.header__price {
+    position: absolute;
+    top: 42px;
+    left: 130px;
+    color: #808080;
+    font-size: 13px;
+    background: linear-gradient(0deg, rgba(241, 241, 241, 0.6), rgba(241, 241, 241, 0.6)), radial-gradient(100% 100% at 100% 0%, #E0B8FF 0%, #B6B9FF 100%);
+    border-radius: 12px;
+    padding: 0px 4px 0px 43px;
+    margin-top: 3px;
+}
+
+@media screen and (min-width: 1440px){
+    .header__price{
+        top: 57px;
+        left: 203px;
+        font-size: 16px;
+        border-radius: 16px;
+        padding: 1px 13px 1px 36px;
+    
+    } 
+    
+  }

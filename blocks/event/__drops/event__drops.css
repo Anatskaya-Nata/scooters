@@ -1,0 +1,14 @@
+.event__drops{
+    position: absolute;
+    top: 280px;
+    left: 188px;
+    z-index: 5;
+}
+
+@media screen and (min-width: 1440px){
+    .event__drops{
+        width: 318px;
+        top: 33px;
+        left: 737px;
+    }   
+}

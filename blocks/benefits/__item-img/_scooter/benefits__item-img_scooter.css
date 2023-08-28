@@ -1,0 +1,11 @@
+.benefits__item-img_scooter{
+    width: 75px;
+    margin: -5px 0 0 4px;
+}
+
+@media screen and (min-width: 1440px){
+    .benefits__item-img_scooter{
+            width: 85px;
+            margin: -13px 0 0px 10px;
+     }
+  }

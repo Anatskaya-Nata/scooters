@@ -1,0 +1,16 @@
+.event{
+    position: relative;
+    width: 100%;
+    padding: 0 0 21px 0;
+}
+
+@media screen and (min-width: 1440px){
+    .event{
+        width: 874px;
+        justify-content: flex-start;
+        align-items: flex-start;
+        margin: 87px auto 0;
+        padding: 0 60px 34px 16px;
+         
+      }
+   }
