@@ -5,6 +5,7 @@
     justify-content: center;
     align-items: center;
     padding: 0 0 34px 0;
+    margin: 0 auto 0;
  
 }
 
@@ -13,7 +14,7 @@
     width: 874px;
     justify-content: flex-start;
     align-items: flex-start;
-    margin: 0 auto 0;
+   /* margin: 0 auto 0;*/
     padding: 0 60px 34px 16px;
        
     }

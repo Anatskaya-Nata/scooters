@@ -1,7 +1,14 @@
 .event{
     position: relative;
-    width: 100%;
+   /* width: 100%;
+    margin: 0 auto 0;
     padding: 0 0 21px 0;
+*/
+
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto 0;
+    width: 311px;
 }
 
 @media screen and (min-width: 1440px){
@@ -10,7 +17,7 @@
         justify-content: flex-start;
         align-items: flex-start;
         margin: 87px auto 0;
-        padding: 0 60px 34px 16px;
+        padding: 0 60px 33px 16px;
          
       }
    }
